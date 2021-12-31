@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>journal on mikkosec</title>
+    <link>https://github.mikkosec.io/tags/journal/</link>
+    <description>Recent content in journal on mikkosec</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://github.mikkosec.io/tags/journal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Becoming a professional bug bounty hunter</title>
+      <link>https://github.mikkosec.io/post/chapter-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.mikkosec.io/post/chapter-1/</guid>
+      <description>I am mikkosec, welcome to my blog. I work as a telecommunications engineer for the US Army and have worked different IT roles in the civilian world for the past 10 years. Although I am currently coursing my bachelor’s degree in Cybersecurity at WGU, most of my tech knowledge comes from self-study and following tutorials online.
+My goal is to become one of the top ten bug bounty hunters in the world.</description>
+    </item>
+    
+  </channel>
+</rss>
