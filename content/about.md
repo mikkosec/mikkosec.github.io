@@ -4,7 +4,7 @@ date: 2025-09-19
 ---
 
 ## 👋 Giới thiệu  
-Xin chào, tôi là **Tu4nSec**. Đây là blog cá nhân của tôi, nơi tôi chia sẻ kiến thức, writeup CTF và Digital Forensics.  
+Xin chào, tôi là **Mikko**. Đây là blog cá nhân của tôi, nơi tôi chia sẻ kiến thức, writeup CTF và Digital Forensics.  
 
 ---
 

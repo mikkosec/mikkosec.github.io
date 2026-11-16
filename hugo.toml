@@ -1,4 +1,4 @@
-baseURL = "https://tu4nsecc.github.io/"
+baseURL = "https://mikkosec.github.io/"
 languageCode = "en-us"
 title = "Welcome to my blog"
 theme = "reimu"
@@ -9,10 +9,10 @@ publishDir = "."
   sort_order = { home = "date-reverse" }
 
   author = "Diep Manh Tuan"
-  nickname = "Tu4nSec"
+  nickname = "Mikko"
   description = "Digital Forensics | @VSL.0utl4w"
   avatar = "images/tuan.jpg"
-  subtitle = "Tu4nSec"
+  subtitle = "Mikko"
 
 [params.injector]
   head_end = '<link rel="stylesheet" href="/css/protected-post.css">'
